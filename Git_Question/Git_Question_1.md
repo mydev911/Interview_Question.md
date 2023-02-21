@@ -1,6 +1,6 @@
 # Git Interview question....
 
-#### https://manoj777.medium.com/git-interview-questions-and-answers-for-devops-5d0b971f8fbb
+#### 1. https://manoj777.medium.com/git-interview-questions-and-answers-for-devops-5d0b971f8fbb
 
 ## Git command
 ```
